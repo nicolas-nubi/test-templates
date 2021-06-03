@@ -1,6 +1,6 @@
 + Task: <url>
-+ View: <nombre>
-+ URL View: <UrlDeLaView>
++ View/Vista nombre: <nombre>
++ View/Vista url: <UrlDeLaView>
 
 ## Descripción
 *(Insertar una descripción de que se hizo)* 
